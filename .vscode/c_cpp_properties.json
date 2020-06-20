@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "defines": [],
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "compilerPath": "/bin/arm-none-eabi-g++",
+            "intelliSenseMode": "clang-x64",
+            "includePath": [
+                "~/Documents/BLDC_Controller/SulawesiTorqueEngine/**",
+                "${workspaceRoot}"
+            ]
+        }
+    ],
+    "version": 4
+}

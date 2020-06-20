@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "defines": [],
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "includePath": [
+                "~/Documents/BLDC_Controller/**",
+                "${workspaceRoot}"
+            ]
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/fangzhou/Documents/BLDC_Controller/SulawesiTorqueEngine/**",
+                "/home/fangzhou/Documents/BLDC_Controller/SulawesiTorqueEngine/incl/ChibiOS/os/hal/boards/ST_NUCLEO64_F030R8/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/cpp",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
